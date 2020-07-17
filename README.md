@@ -1,6 +1,6 @@
 # hello-world
 1st repository for just testing..
 
-2nd edit this file
+master 브랜치에다 직접 쓰다니..ㅠㅠ
 
-할 말이 없네ㅠㅠ
+브랜치 따서 고쳐야지~

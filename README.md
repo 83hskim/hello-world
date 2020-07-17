@@ -1,6 +1,6 @@
 # hello-world
 1st repository for just testing..
 
-Hi, guys!
+2nd edit this file
 
-aaaaabbbbbccccc
+할 말이 없네ㅠㅠ
